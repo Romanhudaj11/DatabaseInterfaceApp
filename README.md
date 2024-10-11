@@ -1,16 +1,15 @@
 # Overview
 
-An awesome desktop App to interface with a database and easily filter and extract the data you need
+A desktop App to interface with ANY database connection and easily filter and extract the data you need to an excel file. 
 
 ## About The Project
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 * Python
+   * ODBC connection library for backend database connection
+   * QT library for UI
 * SQL Server
-* ODBC
 
 ## Getting Started
 
@@ -19,8 +18,6 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 ### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
 1. Clone the repo
    ```sh
