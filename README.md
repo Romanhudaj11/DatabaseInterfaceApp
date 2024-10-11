@@ -17,15 +17,24 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+The app itself can by run using python on your local machine (on any OS). 
+
+Not included in this repo is the .app version of the project that let's you launch the app with a click of a button. If you would like this, either: 
+
+* email me and ask for it
+* use a tool (such as ```pyinstaller```, depending on your OS) to create the packaged version. 
+
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/rhudaj/DatabaseInterfaceApp.git
    ```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+
+The app itself walks you through how to setup a DB connection (using the start page, DB connection settings) and the UI elements for selecting/filtering from the DB are layed out intuitively. Simply use the UI to build your query, and output the results on the final page. 
 
 
 <!-- CONTACT -->
@@ -33,17 +42,7 @@ To get a local copy up and running follow these simple example steps.
 
 Roman Hudaj - rhudaj@uwaterloo.ca
 
-
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+N/A
