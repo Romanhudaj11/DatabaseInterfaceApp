@@ -31,6 +31,14 @@ Not included in this repo is the .app version of the project that let's you laun
    git clone https://github.com/rhudaj/DatabaseInterfaceApp.git
    ```
 
+2. Install Dependencies & launch the app
+
+   ```sh
+   cd 'DatabaseInterfaceApp/SOURCE code'
+   pip install -r requirements.txt
+   python main.py
+   ```
+
 <!-- USAGE EXAMPLES -->
 ## Usage
 
