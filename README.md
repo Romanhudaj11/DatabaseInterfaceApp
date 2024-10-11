@@ -38,19 +38,15 @@ Not included in this repo is the .app version of the project that let's you laun
    pip install -r requirements.txt
    python main.py
    ```
-
-<!-- USAGE EXAMPLES -->
+   
 ## Usage
 
 The app itself walks you through how to setup a DB connection (using the start page, DB connection settings) and the UI elements for selecting/filtering from the DB are layed out intuitively. Simply use the UI to build your query, and output the results on the final page. 
 
-
-<!-- CONTACT -->
 ## Contact
 
 Roman Hudaj - rhudaj@uwaterloo.ca
 
-<!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
 N/A
